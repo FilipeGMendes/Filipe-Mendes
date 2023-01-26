@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @PipoMendes
+- 👋 Hi, I’m @FilipeMendes
 - 👀 I’m interested in ...learning coding
 - 🌱 I’m currently learning ...the basics
 - 📫 How to reach me ...filipe0505mendes@gmail.com
